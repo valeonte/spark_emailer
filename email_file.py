@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "sparkpost>=1.3.10",
+# ]
+# ///
+
 import sys
 import os
 

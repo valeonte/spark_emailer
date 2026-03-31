@@ -1,5 +1,0 @@
-name: spark_env
-dependencies:
-  - pip
-  - pip:
-    - sparkpost
